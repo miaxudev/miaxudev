@@ -1,16 +1,29 @@
-## Hi there 👋
+# Mia Xu
 
-<!--
-**miaxudev/miaxudev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer (Python, AWS) — transitioning from AI instruction and cloud/DevOps work into backend software engineering. Based in Adelaide, Australia.
 
-Here are some ideas to get you started:
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About
+
+I hold a Master of Computer Science from the University of Adelaide and AWS Solutions Architect Associate / Cloud Practitioner certifications. My background spans cloud infrastructure, Python backend development, and AI instruction — I currently teach AI and Python, and I'm building toward backend/cloud engineering roles.
+
+## Projects
+
+**[devops-aws-platform](https://github.com/AnnnnnX03/devops-aws-platform)** — 3-tier AWS platform: Terraform-managed VPC/ECS/RDS, GitHub Actions CI/CD to ECS Fargate, FastAPI backend with a separate AI service layer, CloudWatch + Grafana monitoring.
+
+**[Grocery-Scraper](https://github.com/AnnnnnX03/Grocery-Scraper)** — Playwright web scraper feeding a FastAPI REST API, with SQLite storage and Pydantic-validated responses.
+
+**[classtrack](https://github.com/AnnnnnX03/classtrack)** — Attendance and credit-tracking app for tutoring programs, with Supabase Auth and Postgres Row Level Security enforcing role-based access (admin/teacher/parent).
+
+**[personal-golf-track](https://github.com/AnnnnnX03/personal-golf-track)** — Practice-focused golf training log with in-browser AI swing analysis using MediaPipe Pose.
+
+## Contact
+
+[LinkedIn](https://linkedin.com/in/mingxia-xu) · mingxia0821@gmail.com
