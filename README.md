@@ -1,6 +1,6 @@
 # Mia Xu
 
-Software Engineer (Python, AWS) — transitioning from AI instruction and cloud/DevOps work into backend software engineering. Based in Adelaide, Australia.
+Software Engineer (Python, AWS) transitioning from AI instruction and DevOps work into software engineering. Based in Adelaide, Australia.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
@@ -12,7 +12,7 @@ Software Engineer (Python, AWS) — transitioning from AI instruction and cloud/
 
 ## About
 
-I hold a Master of Computer Science from the University of Adelaide and AWS Solutions Architect Associate / Cloud Practitioner certifications. My background spans cloud infrastructure, Python backend development, and AI instruction — I currently teach AI and Python, and I'm building toward backend/cloud engineering roles.
+I hold a Master of Computer Science from the University of Adelaide and AWS Solutions Architect Associate / Cloud Practitioner certifications. My background spans cloud infrastructure, Python backend development, and AI instruction - I currently teach AI and Python, and I'm building toward software engineering roles.
 
 ## Projects
 
